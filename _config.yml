@@ -1,0 +1,5 @@
+remote_theme: pages-theme/minimal@0.2.0
+title: "Sam's Place"
+plugins:
+- jekyll-remote-theme
+description: "A new place for me to start publishing again."
